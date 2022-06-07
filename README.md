@@ -2,7 +2,7 @@
 
 ### Overview
 
-The Infineon AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 Module Evaluation Kit (CYBLE-343072-EVAL-M2B) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20835, an ultra-low-power Bluetooth&#174; LE 5.2 system on a chip.
+The Infineon AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 Module Evaluation Kit (CYBLE-343072-EVAL-M2B) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20835, an ultra-low-power Bluetooth&#174; LE 5.2 system on chip.
 
 The AIROC&#8482; CYW20835 Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; LE connectivity, core spec compliant to 5.2, along with high-performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. It is a highly integrated device integrating multiple serial interfaces, PWMs, analog and digital microphone interfaces, and more. The AIROC&#8482; CYW20835 is designed to support the entire spectrum of Bluetooth&#174; Low Energy use cases for home automation, lighting, accessory, HID, medical, industrial, and sensor nodes as well as being fully Bluetooth&#174; mesh compliant. This Evaluation Kit (CYBLE-343072-EVAL-M2B) includes an Infineon in-house AIROC&#8482; Bluetooth&#174; module hosting the AIROC&#8482; CYW20835 that is globally certified and has PCB antenna integrated, rapidly reducing time-to-market.
 
